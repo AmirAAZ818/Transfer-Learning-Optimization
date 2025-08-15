@@ -21,16 +21,18 @@ This project addresses challenges in deep neural network training, such as gradi
 - torchinfo
 
 Install dependencies via:
-```
+
+```bash
 pip install torch matplotlib numpy pandas wandb tqdm torchinfo
 ```
 
 ### Running the Code
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/Transfer-Learning-Normalization-Dynamics.git
-   cd Transfer-Learning-Normalization-Dynamics
+
+   ```bash
+   git clone https://github.com/AmirAAZ818/Transfer-Learning-Optimization.git
+   cd Transfer-Learning-Optimization
    ```
 
 2. Set up Weights & Biases (optional but recommended for experiment tracking):
@@ -40,5 +42,5 @@ pip install torch matplotlib numpy pandas wandb tqdm torchinfo
 3. Experiments.
    - Experiments log metrics to *wandb*; adjust `wandb_config` for your project/entity.
 
-
     > View Experiment Results on [W&B](https://wandb.ai/amiraaz/Normalization%20Techniques%20and%20Gradient%20Dynamics).
+ 
