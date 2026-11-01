@@ -1,0 +1,17 @@
+# generated at run time
+data/
+experiments/
+wandb/
+*.pth
+
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
